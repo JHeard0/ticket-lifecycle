@@ -67,6 +67,7 @@ As John assign the ticket to Jane and set the properties of the ticket.
 <img src="https://i.imgur.com/adr1wGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 The logs Jane can see
+
 <img src="https://i.imgur.com/6YplSNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h3> Working The Issue </h3>
@@ -80,6 +81,7 @@ Karen thanks Jane for the support.
 <img src="https://i.imgur.com/RfWezVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Jane closes the ticket.
+
 <img src="https://i.imgur.com/JohGqIu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
@@ -96,7 +98,15 @@ Ticket from Karen Krocy: The CFO's laptop won't turn on
 
 <h3>Assignment & Communication </h3>
 As John assign the ticket to John, and set the properties of the ticket.
-<img src="https://i.imgur.com/YwrkET8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oMhEjIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h3> Working The Issue </h3>
+John's first reply and Karen's response.
+<img src="https://i.imgur.com/oMhEjIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+John suggests another potential solution.
+<img src="https://i.imgur.com/CPTaXzu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Karen thanks John for the support, and John closes the ticket.
+
+<img src="https://i.imgur.com/PVA0BoL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
