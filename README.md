@@ -51,7 +51,52 @@ John suggests another solution.
 Ken thanks John for the help 
 <img src="https://i.imgur.com/ma22NvG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 John closes the ticket
-<img src="https://i.imgur.com/a1O8E8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <img src="https://i.imgur.com/Zx9MTaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<h2>Lifecycle Stages Example #2 </h2>
+
+<h3>Intake </h3>
+Ticket from Karen Krocy: The entire online mobile banking system is down.
+<p>
+<img src="https://i.imgur.com//e9eynsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Assignment & Communication </h3>
+As John assign the ticket to Jane and set the properties of the ticket.
+<img src="https://i.imgur.com/adr1wGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+The logs Jane can see
+<img src="https://i.imgur.com/6YplSNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h3> Working The Issue </h3>
+Jane's first response to Karen Krocy
+<img src="https://i.imgur.com/0RmQyDY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Jane gets back to Karen with some more info.
+<img src="https://i.imgur.com/rze9fPD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Karen thanks Jane for the support.
+<img src="https://i.imgur.com/RfWezVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Jane closes the ticket.
+<img src="https://i.imgur.com/JohGqIu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+<h2>Lifecycle Stages Example #3 </h2>
+
+<h3>Intake </h3>
+Ticket from Karen Krocy: The CFO's laptop won't turn on
+<p>
+<img src="https://i.imgur.com/lWKEPyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<h3>Assignment & Communication </h3>
+As John assign the ticket to John, and set the properties of the ticket.
+<img src="https://i.imgur.com/YwrkET8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h3> Working The Issue </h3>
 
