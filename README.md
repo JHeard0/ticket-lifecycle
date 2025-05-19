@@ -47,39 +47,51 @@ As John assign the ticket to John, and set the properties of the ticket.
 
 <h3> Working The Issue </h3>
 John's first response to Ken Krocker
+<p></p>
 <img src="https://i.imgur.com/sN3cwkS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
 Ken Krockers replies to John. The suggested solution isn't possible for Ken. 
+<p></p>
 <img src="https://i.imgur.com/KzQ1Bay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
 John suggests another solution.
+<p></p>
 <img src="https://i.imgur.com/GCQ7HGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
 Ken thanks John for the help 
+<p></p>
 <img src="https://i.imgur.com/ma22NvG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
 John closes the ticket
+<p></p>
 <img src="https://i.imgur.com/Zx9MTaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 
 <h2>Lifecycle Stages Example #2 </h2>
-
+<p></p>
 <h3>Intake </h3>
+<p></p>
 Ticket from Karen Krocy: The entire online mobile banking system is down.
 <p></p>
 <img src="https://i.imgur.com//e9eynsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 
 <h3>Assignment & Communication </h3>
+<p></p>
 As John assign the ticket to Jane and set the properties of the ticket.
 <p></p>
 <img src="https://i.imgur.com/adr1wGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 The logs Jane can see
 <p></p>
 <img src="https://i.imgur.com/6YplSNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 <h3> Working The Issue </h3>
+<p></p>
 Jane's first response to Karen Krocy
 <p></p>
 <img src="https://i.imgur.com/0RmQyDY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<p></p>
 Jane gets back to Karen with some more info.
 <p></p>
 <img src="https://i.imgur.com/rze9fPD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
