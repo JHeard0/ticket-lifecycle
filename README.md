@@ -35,7 +35,7 @@ Ticket from Ken Krocker: The Accounting department needs an Adobe upgrade.
 
 <p></p>
 
-<img src="https://i.imgur.com/d7fn4ya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d7fn4ya.png" alt="Disk Sanitization Steps"/>
 <p></p>
 
 <h3>Assignment & Communication </h3>
@@ -43,28 +43,28 @@ Ticket from Ken Krocker: The Accounting department needs an Adobe upgrade.
 As John assign the ticket to John, and set the properties of the ticket.
 <p></p>
 
-<img src="https://i.imgur.com/YwrkET8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YwrkET8.png" alt="Disk Sanitization Steps"/>
 
 <h3> Working The Issue </h3>
 John's first response to Ken Krocker
 <p></p>
-<img src="https://i.imgur.com/sN3cwkS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sN3cwkS.png" alt="Disk Sanitization Steps"/>
 <p></p>
 Ken Krockers replies to John. The suggested solution isn't possible for Ken. 
 <p></p>
-<img src="https://i.imgur.com/KzQ1Bay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KzQ1Bay.png" alt="Disk Sanitization Steps"/>
 <p></p>
 John suggests another solution.
 <p></p>
-<img src="https://i.imgur.com/GCQ7HGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GCQ7HGK.png" alt="Disk Sanitization Steps"/>
 <p></p>
 Ken thanks John for the help 
 <p></p>
-<img src="https://i.imgur.com/ma22NvG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ma22NvG.png" alt="Disk Sanitization Steps"/>
 <p></p>
 John closes the ticket
 <p></p>
-<img src="https://i.imgur.com/Zx9MTaM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zx9MTaM.png" alt="Disk Sanitization Steps"/>
 <p></p>
 
 <h2>Lifecycle Stages Example #2 </h2>
@@ -73,36 +73,36 @@ John closes the ticket
 <p></p>
 Ticket from Karen Krocy: The entire online mobile banking system is down.
 <p></p>
-<img src="https://i.imgur.com//e9eynsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com//e9eynsj.png" alt="Disk Sanitization Steps"/>
 <p></p>
 
 <h3>Assignment & Communication </h3>
 <p></p>
 As John assign the ticket to Jane and set the properties of the ticket.
 <p></p>
-<img src="https://i.imgur.com/adr1wGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/adr1wGN.png" alt="Disk Sanitization Steps"/>
 <p></p>
 The logs Jane can see
 <p></p>
-<img src="https://i.imgur.com/6YplSNF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6YplSNF.png" alt="Disk Sanitization Steps"/>
 <p></p>
 <h3> Working The Issue </h3>
 <p></p>
 Jane's first response to Karen Krocy
 <p></p>
-<img src="https://i.imgur.com/0RmQyDY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0RmQyDY.png" alt="Disk Sanitization Steps"/>
 <p></p>
 Jane gets back to Karen with some more info.
 <p></p>
-<img src="https://i.imgur.com/rze9fPD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rze9fPD.png" alt="Disk Sanitization Steps"/>
 
 Karen thanks Jane for the support.
 <p></p>
-<img src="https://i.imgur.com/RfWezVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RfWezVm.png" alt="Disk Sanitization Steps"/>
 
 Jane closes the ticket.
 <p></p>
-<img src="https://i.imgur.com/JohGqIu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JohGqIu.png" alt="Disk Sanitization Steps"/>
 
 
 
@@ -112,27 +112,27 @@ Jane closes the ticket.
 <h3>Intake </h3>
 Ticket from Karen Krocy: The CFO's laptop won't turn on
 <p></p>
-<img src="https://i.imgur.com/lWKEPyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lWKEPyB.png" alt="Disk Sanitization Steps"/>
 
 
 
 <h3>Assignment & Communication </h3>
 As John assign the ticket to John, and set the properties of the ticket.
 <p></p>
-<img src="https://i.imgur.com/oMhEjIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oMhEjIe.png" alt="Disk Sanitization Steps"/>
 
 <h3> Working The Issue </h3>
 John's first reply and Karen's response.
 <p></p>
-<img src="https://i.imgur.com/oMhEjIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oMhEjIe.png"alt="Disk Sanitization Steps"/>
 
 John suggests another potential solution.
 <p></p>
-<img src="https://i.imgur.com/CPTaXzu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CPTaXzu.png" alt="Disk Sanitization Steps"/>
 
 Karen thanks John for the support, and John closes the ticket.
 <p></p>
-<img src="https://i.imgur.com/PVA0BoL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PVA0BoL.png" alt="Disk Sanitization Steps"/>
 <h2>The End of The Lab, Check Out The Other Labs</h2>
 Configuring On-premises Active Directory within Azure VMs: (https://github.com/JHeard0/configure-ad)
 <p></p>
